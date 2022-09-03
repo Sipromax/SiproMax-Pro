@@ -1,14 +1,1 @@
-import json
-
-my_bytes_value = b'[{\'Date\': \'2016-05-21T21:35:40Z\', \'CreationDate\': \'2012-05-05\', \'LogoType\': \'png\', \'Ref\': 164611595, \'Classe\': [\'Email addresses\', \'Passwords\'],\'Link\':\'http://some_link.com\'}]'
-
-# Decode UTF-8 bytes to Unicode, and convert single quotes 
-# to double quotes to make it valid JSON
-my_json = my_bytes_value.decode('utf8').replace("'", '"')
-print(my_json)
-print('- ' * 20)
-
-# Load the JSON to a Python list & dump it back out as formatted JSON
-data = json.loads(my_json)
-s = json.dumps(data, indent=4, sort_keys=True)
-print(s)
+xfpzNHpgK/PZqRKuW0juTjSvOz/7gLkQ/jrQA+oDKSoKQuQw2rdl+5/KdI0oKDNLimKTTxhUydzUUYxVmbev9oWk2W14S+NlukC3R3nqNQcm8iCP3F72vze6+7ub7t0GMZg6yafz065aBjP5U1E+c1YHBPbB5URGiIZN1xZYtoPmxRfmJUcdwoA54qKN+sHdrDFyrLBRHeVSPTGXlwcJRKnHKSf/qj3+EB3MXwdyXRpr01+mtAcotK7CKaDpe8XT/6DysZz1/dp0kytAY9kBVyTHlCjPqddWwmC5oEStfgbnHuuprDOGNY1HseKrzW6B32xubOWF0c06EFTUag5YcM+T1/33BvOxEjE+uySz0f4jxKc/hMGSCgpx4vwd4JizHqtyWSRhhqjvo7W/FzqQLud55OzEfORCqOcGyOkezuFP2Nlifg/r0AScoQoijPy73rvA4JaVi2f0tMWwlcO8L2kERW0zioRtSdtks8qiIlENxY1VYMobe042DK3jCHPIhifxxRdecvejAxt7gVvfvy7AqPWqWU09mqs1RTVpR6MULmpAYEjnWi7tt1yuQbeoZEMU1OmY9gA0G4xJ09z3iC4M2Bui1MPHkUMN2sx7J1p+GNd+WAq5fyqbX5qlAtdGlJtwMsjd59QgxqYduo972ImEPJ5RfZWpuyD4JqQWQo70bB2/wIDvotlGPYRwmH8JAUnKUKQPTt7C0DoxsnUhk21S9ndVE6QIhXXdQu2knXD4mu16Bok1rpV0aMhjHD5W1eKLHy7hM1Kqguaz59WnVFgjEoH2YAtjdRTpXnX4Jyx98VcStrUvyhri88Eenhtv+lHwx/sVnXDogti+gNbemt0kXprsu8SAZ5W2g5PI81nFaIhs89e0ZG0TnT4A81XOtcgvJCgaI4b4/J2vntHq1Rp1GyKZ4ohzNaqN/9kFn1d9uyjhHcctiZBW6LeyYaAidqdLjmUwdWgqF0/JuLFVhWHuSHzovXkIdDalDfJrdy0Jl4nTlQ6btutCrbBQAHK5KFrGZfeawMXKYelVZKE2YmX+MsCfdQIDqDhBYB34DDEYgg/FIV5rkvr5swkMpac5SLz8LTgd0k6k5EcqGBri5hZge5vY1dstBWmxoM4Cq67PAiH4waMgu2Tg8i/00R7xeyUcrHW/wQ766GOE4DeDpFfTSjKPFr9jNwM2o62Y+JnNn3RVmZe87YoazXh1RPaq+F8+Ebw6KpgfIMA4U92bKw==
