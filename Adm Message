@@ -1,9 +1,12 @@
-Server Name : Name of your choice 
+Server Name : 
+Name of your choice 
 FLAG : de
-Server IP : vps-3a737920.vps.ovh.net
+Server IP : 
+vps-3a737920.vps.ovh.net
 SSH Port : 442
 SSL Port : 443
-Remote Proxy : vps-3a737920.vps.ovh.net
+Remote Proxy : 
+vps-3a737920.vps.ovh.net
 Proxy Port : 8880
 Username : User1
 Password : user1
