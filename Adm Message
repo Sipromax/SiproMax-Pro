@@ -1,31 +1,133 @@
-Server Name : 
-Name of your choice 
-FLAG : 
-Server IP : 
+India
+• Hostname :in1.ssh30.us
+• Hostname (Cloudflare) :in1ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
 
-SSH Port : 
-SSL Port : 
-Remote Proxy : 
-
-Proxy Port : 
-Username : 
-Password : 
-Status : EXPIRED🛑
-Expired : 
 
 
-Server Name : 
-Name of your choice 
-FLAG : 
-Server IP : 
+India
+• Hostname :in2.ssh30.us
+• Hostname (Cloudflare) :in2ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+if internet unavailable, set manual Remote DNS to 8.8.8.8 or 1.1.1.1
 
-SSH Port : 
-SSL Port : 
-Remote Proxy : 
 
-Proxy Port : 
-Username : 
-Password : 
-Status : EXPIRED🛑
-Expired : 
 
+Japan
+• Hostname :jp1.ssh30.us
+• Hostname (Cloudflare) :jp1ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+if internet unavailable, set manual Remote DNS to 8.8.8.8 or 1.1.1.1
+
+
+
+Japan
+• Hostname :jp2.ssh30.us
+• Hostname (Cloudflare) :jp2ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+if internet unavailable, set manual Remote DNS to 8.8.8.8 or 1.1.1.1
+
+
+
+Canada
+• Hostname :ca1.ssh30.us
+• Hostname (Cloudflare) :ca1ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW:7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+
+
+Canada
+• Hostname : ca2.ssh30.us
+Hostname(Cloudflare):ca2ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+
+
+France
+• Hostname :fr2.ssh30.us
+• Hostname (Cloudflare) :fr2ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
+
+
+Poland
+• Hostname :pl1.ssh30.us
+• Hostname (Cloudflare) :pl1ssh30.cdnws.us
+• Username :sshstores-Newmax
+• Password :maxxx
+• Port SSH :997,1997,22
+• Port Dropbear :442,143
+• Port SSH TLS/SSL :443,445
+• Port Squid Proxy :80,8080,3128
+• Port Websocket :8880
+• Port Websocket (SSL) :2087
+• Port UDPGW :7313,7300,7390,7385,7376
+• Created :03 July 2023
+• Expired :02 August 2023
